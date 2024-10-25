@@ -1,0 +1,290 @@
+<kml>
+  <xmlns>http://www.opengis.net/kml/2.2</xmlns>
+  <xmlns:gx>http://www.google.com/kml/ext/2.2</xmlns:gx>
+  <xmlns:kml>http://www.opengis.net/kml/2.2</xmlns:kml>
+  <xmlns:atom>http://www.w3.org/2005/Atom</xmlns:atom>
+  <Document>
+    <name>2024IMWCKonaSwimCourse.kml</name>
+    <Style>
+      <id>inline154</id>
+      <LineStyle>
+        <color>ff00ff00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+    <Style>
+      <id>inline62</id>
+      <LineStyle>
+        <color>ff00ff00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+    <StyleMap>
+      <id>inline210</id>
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#inline154</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#inline62</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>IMWC Swim Course</name>
+      <styleUrl>#inline210</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+				-155.9961608278336,19.63912192665627,0 -155.9899506220657,19.62357990233634,0 -155.9906293549096,19.62334740914049,0 -155.9961336821092,19.63685189437746,0 -155.9964503796886,19.63901344707445,0 -155.9968877201105,19.63991247209316,0 
+			</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Start</name>
+      <Point>
+        <coordinates>-155.996161,19.639122,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Finish</name>
+      <Point>
+        <coordinates>-155.996888,19.639912,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.1 KM</name>
+      <Point>
+        <coordinates>-155.995824,19.638280,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.2 KM</name>
+      <Point>
+        <coordinates>-155.995488,19.637439,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.30000000000000004 KM</name>
+      <Point>
+        <coordinates>-155.995152,19.636597,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.4 KM</name>
+      <Point>
+        <coordinates>-155.994815,19.635755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.5 KM</name>
+      <Point>
+        <coordinates>-155.994479,19.634914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.6 KM</name>
+      <Point>
+        <coordinates>-155.994143,19.634072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.7 KM</name>
+      <Point>
+        <coordinates>-155.993806,19.633230,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.7999999999999999 KM</name>
+      <Point>
+        <coordinates>-155.993470,19.632388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.8999999999999999 KM</name>
+      <Point>
+        <coordinates>-155.993134,19.631547,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.9999999999999999 KM</name>
+      <Point>
+        <coordinates>-155.992798,19.630705,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.0999999999999999 KM</name>
+      <Point>
+        <coordinates>-155.992461,19.629863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.2 KM</name>
+      <Point>
+        <coordinates>-155.992125,19.629022,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.3 KM</name>
+      <Point>
+        <coordinates>-155.991789,19.628180,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.4000000000000001 KM</name>
+      <Point>
+        <coordinates>-155.991452,19.627338,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.5000000000000002 KM</name>
+      <Point>
+        <coordinates>-155.991116,19.626497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.6000000000000003 KM</name>
+      <Point>
+        <coordinates>-155.990780,19.625655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.7000000000000004 KM</name>
+      <Point>
+        <coordinates>-155.990443,19.624813,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.8000000000000005 KM</name>
+      <Point>
+        <coordinates>-155.990107,19.623972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1.9000000000000006 KM</name>
+      <Point>
+        <coordinates>-155.990430,19.623416,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.0000000000000004 KM</name>
+      <Point>
+        <coordinates>-155.990896,19.624001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.1000000000000005 KM</name>
+      <Point>
+        <coordinates>-155.991238,19.624840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.2000000000000006 KM</name>
+      <Point>
+        <coordinates>-155.991580,19.625680,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.3000000000000007 KM</name>
+      <Point>
+        <coordinates>-155.991922,19.626520,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.400000000000001 KM</name>
+      <Point>
+        <coordinates>-155.992264,19.627359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.500000000000001 KM</name>
+      <Point>
+        <coordinates>-155.992607,19.628199,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.600000000000001 KM</name>
+      <Point>
+        <coordinates>-155.992949,19.629038,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.700000000000001 KM</name>
+      <Point>
+        <coordinates>-155.993291,19.629878,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.800000000000001 KM</name>
+      <Point>
+        <coordinates>-155.993633,19.630717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2.9000000000000012 KM</name>
+      <Point>
+        <coordinates>-155.993975,19.631557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.0000000000000013 KM</name>
+      <Point>
+        <coordinates>-155.994318,19.632397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.1000000000000014 KM</name>
+      <Point>
+        <coordinates>-155.994660,19.633236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.2000000000000015 KM</name>
+      <Point>
+        <coordinates>-155.995002,19.634076,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.3000000000000016 KM</name>
+      <Point>
+        <coordinates>-155.995344,19.634915,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.4000000000000017 KM</name>
+      <Point>
+        <coordinates>-155.995687,19.635755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.5000000000000018 KM</name>
+      <Point>
+        <coordinates>-155.996029,19.636594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.600000000000002 KM</name>
+      <Point>
+        <coordinates>-155.996224,19.637470,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.700000000000002 KM</name>
+      <Point>
+        <coordinates>-155.996355,19.638360,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3.800000000000002 KM</name>
+      <Point>
+        <coordinates>-155.996557,19.639232,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
