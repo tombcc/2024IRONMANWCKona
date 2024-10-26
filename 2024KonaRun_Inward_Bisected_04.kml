@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Run</name>
+	<open>1</open>
+	<StyleMap id="line-FF0000-2000-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FF0000-2000-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FF0000-2000-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-FF0000-2000-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-FF0000-2000-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>LineString</name>
+		<styleUrl>#line-FF0000-2000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-155.997046,19.639962,0 -155.996842,19.640132,0 -155.996739,19.640218,0 -155.996722,19.640307,0 -155.996854,19.640479,0 -155.996963,19.640601,0 -155.99698,19.640824,0 -155.996832,19.641043,0 -155.996262,19.64178,0 -155.996137,19.641799,0 -155.995479,19.641268,0 -155.994823,19.640977,0 -155.993085,19.640687,0 -155.992383,19.640509,0 -155.99196,19.640277,0 -155.991628,19.640042,0 -155.991377,19.639749,0 -155.991153,19.639398,0 -155.990967,19.639117,0 -155.990684,19.638549,0 -155.990706,19.63844,0 -155.992523,19.637551,0 -155.992562,19.637354,0 -155.991575,19.636506,0 -155.990733,19.63567,0 -155.990421,19.63537,0 -155.990016,19.634605,0 -155.989675,19.633808,0 -155.988719,19.631289,0 -155.988141,19.629424,0 -155.987865,19.628294,0 -155.987624,19.626714,0 -155.987249,19.625844,0 -155.986825,19.625173,0 -155.986261,19.624595,0 -155.985809,19.624208,0 -155.985508,19.623598,0 -155.985321,19.622746,0 -155.985019,19.62145,0 -155.984626,19.619978,0 -155.984035,19.618623,0 -155.982856,19.616071,0 -155.982237,19.614805,0 -155.981361,19.61348,0 -155.979993,19.611648,0 -155.978999,19.610288,0 -155.978533,19.60956,0 -155.977822,19.60877,0 -155.977036,19.608004,0 -155.976821,19.607595,0 -155.97656,19.606897,0 -155.976207,19.606414,0 -155.975564,19.605826,0 -155.975242,19.605417,0 -155.97469,19.604486,0 -155.974459,19.603888,0 -155.974374,19.603164,0 -155.974482,19.602468,0 -155.974662,19.601449,0 -155.974588,19.600614,0 -155.974554,19.600408,0 -155.974536,19.600274,0 -155.974522,19.600419,0 -155.974622,19.601403,0 -155.974436,19.602451,0 -155.974331,19.603202,0 -155.974446,19.603983,0 -155.974646,19.604498,0 -155.975222,19.60544,0 -155.975542,19.605851,0 -155.976185,19.606473,0 -155.976516,19.606927,0 -155.976786,19.60761,0 -155.977006,19.608036,0 -155.977807,19.608817,0 -155.978522,19.609612,0 -155.980785,19.61275,0 -155.98224,19.614915,0 -155.984568,19.619964,0 -155.985439,19.623596,0 -155.985747,19.624205,0 -155.986244,19.62465,0 -155.986805,19.625234,0 -155.987201,19.625832,0 -155.987601,19.626854,0 -155.987826,19.628379,0 -155.988111,19.62955,0 -155.988684,19.631313,0 -155.989248,19.632815,0 -155.989785,19.63419,0 -155.989992,19.634638,0 -155.990398,19.635404,0 -155.991088,19.63608,0 -155.992485,19.63736,0 -155.992479,19.637528,0 -155.99066,19.638426,0 -155.990627,19.63861,0 -155.99121,19.639727,0 -155.991677,19.640224,0 -155.992294,19.640554,0 -155.992814,19.640703,0 -155.993877,19.640873,0 -155.994545,19.640993,0 -155.994823,19.641048,0 -155.995424,19.641317,0 -155.996052,19.641812,0 -155.996163,19.641898,0 -155.996146,19.642022,0 -155.994602,19.644629,0 -155.993717,19.646303,0 -155.993786,19.646587,0 -155.996734,19.647986,0 -156.001338,19.650431,0 -156.002747,19.651463,0 -156.004272,19.652996,0 -156.005751,19.655058,0 -156.007088,19.657895,0 -156.008748,19.661333,0 -156.010124,19.663559,0 -156.013144,19.668138,0 -156.015233,19.671436,0 -156.016589,19.67336,0 -156.018565,19.676553,0 -156.01938,19.678706,0 -156.021217,19.68608,0 -156.021767,19.687928,0 -156.022756,19.690418,0 -156.02442,19.693077,0 -156.028571,19.699914,0 -156.030452,19.702817,0 -156.032256,19.705607,0 -156.03328,19.70798,0 -156.033775,19.710437,0 -156.033721,19.713653,0 -156.032542,19.720712,0 -156.031796,19.725195,0 -156.03185,19.725379,0 -156.031994,19.725474,0 -156.032469,19.72558,0 -156.033354,19.725638,0 -156.033721,19.725568,0 -156.033789,19.725368,0 -156.033772,19.724853,0 -156.03382,19.724317,0 -156.035505,19.718134,0 -156.035706,19.717366,0 -156.035721,19.716729,0 -156.035616,19.715815,0 -156.041668,19.715104,0 -156.04759,19.714436,0 -156.047945,19.7146,0 -156.052583,19.720955,0 -156.055188,19.7246,0 -156.055211,19.724581,0 -156.055031,19.724286,0 -156.054184,19.723137,0 -156.051974,19.720029,0 -156.049905,19.717201,0 -156.048195,19.714828,0 -156.047946,19.714514,0 -156.047634,19.714373,0 -156.03556,19.715808,0 -156.035501,19.715957,0 -156.035642,19.716876,0 -156.035619,19.717336,0 -156.034687,19.72073,0 -156.033741,19.724319,0 -156.033696,19.72488,0 -156.033717,19.725321,0 -156.033631,19.725531,0 -156.03336,19.725541,0 -156.032461,19.725482,0 -156.03204,19.725379,0 -156.031858,19.725284,0 -156.031841,19.725104,0 -156.032126,19.723405,0 -156.032944,19.718501,0 -156.033778,19.713675,0 -156.033842,19.710245,0 -156.033288,19.707792,0 -156.030533,19.702698,0 -156.026901,19.696873,0 -156.02292,19.690452,0 -156.021863,19.687871,0 -156.02129,19.685985,0 -156.019495,19.678574,0 -156.018542,19.676301,0 -156.015306,19.671285,0 -156.010626,19.664132,0 -156.008905,19.661449,0 -156.005844,19.655,0 -156.004266,19.652802,0 -156.002642,19.651273,0 -156.001213,19.650264,0 -155.993827,19.646444,0 -155.993817,19.646266,0 -155.99474,19.644481,0 -155.996177,19.642018,0 -155.996184,19.641892,0 -155.996046,19.641757,0 -155.995457,19.641296,0 -155.994804,19.641007,0 -155.993886,19.640841,0 -155.993054,19.640708,0 -155.992338,19.640528,0 -155.991715,19.640177,0 -155.991333,19.639766,0 -155.990968,19.639182,0 -155.990666,19.638577,0 -155.990701,19.638419,0 -155.992579,19.637521,0 -155.992686,19.63757,0 -155.993129,19.637997,0 -155.993204,19.638113,0 -155.993451,19.638464,0 -155.99365,19.638862,0 -155.994162,19.639602,0 -155.994434,19.639744,0 -155.994755,19.639851,0 -155.99534,19.640059,0 -155.99568,19.640129,0 -155.996456,19.640121,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Start</name>
+		<Point>
+			<coordinates>-155.997046,19.639962,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Finish</name>
+		<Point>
+			<coordinates>-155.996456,19.640121,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.000000000000256 KM</name>
+		<Point>
+			<coordinates>-156.013646,19.668748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.10000000000026 KM</name>
+		<Point>
+			<coordinates>-156.013145,19.667982,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.20000000000026 KM</name>
+		<Point>
+			<coordinates>-156.012644,19.667217,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.30000000000026 KM</name>
+		<Point>
+			<coordinates>-156.012143,19.666451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.40000000000026 KM</name>
+		<Point>
+			<coordinates>-156.011642,19.665685,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.50000000000026 KM</name>
+		<Point>
+			<coordinates>-156.011141,19.66492,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.600000000000264 KM</name>
+		<Point>
+			<coordinates>-156.01064,19.664154,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.700000000000266 KM</name>
+		<Point>
+			<coordinates>-156.010146,19.663384,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.80000000000027 KM</name>
+		<Point>
+			<coordinates>-156.009653,19.662615,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>37.90000000000027 KM</name>
+		<Point>
+			<coordinates>-156.009159,19.661845,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.00000000000027 KM</name>
+		<Point>
+			<coordinates>-156.008716,19.66105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.10000000000027 KM</name>
+		<Point>
+			<coordinates>-156.008326,19.660229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.20000000000027 KM</name>
+		<Point>
+			<coordinates>-156.007936,19.659408,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.300000000000274 KM</name>
+		<Point>
+			<coordinates>-156.007547,19.658587,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.400000000000276 KM</name>
+		<Point>
+			<coordinates>-156.007157,19.657766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.50000000000028 KM</name>
+		<Point>
+			<coordinates>-156.006767,19.656945,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.60000000000028 KM</name>
+		<Point>
+			<coordinates>-156.006377,19.656124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.70000000000028 KM</name>
+		<Point>
+			<coordinates>-156.005988,19.655303,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.80000000000028 KM</name>
+		<Point>
+			<coordinates>-156.005506,19.65453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>38.90000000000028 KM</name>
+		<Point>
+			<coordinates>-156.004972,19.653785,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.000000000000284 KM</name>
+		<Point>
+			<coordinates>-156.004437,19.65304,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.100000000000286 KM</name>
+		<Point>
+			<coordinates>-156.003806,19.652369,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.20000000000029 KM</name>
+		<Point>
+			<coordinates>-156.003131,19.651733,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.30000000000029 KM</name>
+		<Point>
+			<coordinates>-156.002431,19.651124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.40000000000029 KM</name>
+		<Point>
+			<coordinates>-156.001667,19.650585,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.50000000000029 KM</name>
+		<Point>
+			<coordinates>-156.000873,19.650088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.60000000000029 KM</name>
+		<Point>
+			<coordinates>-156.000036,19.649655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.700000000000294 KM</name>
+		<Point>
+			<coordinates>-155.999199,19.649223,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.800000000000296 KM</name>
+		<Point>
+			<coordinates>-155.998362,19.64879,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>39.9000000000003 KM</name>
+		<Point>
+			<coordinates>-155.997525,19.648357,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.0000000000003 KM</name>
+		<Point>
+			<coordinates>-155.996688,19.647924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.1000000000003 KM</name>
+		<Point>
+			<coordinates>-155.995851,19.647491,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.2000000000003 KM</name>
+		<Point>
+			<coordinates>-155.995014,19.647058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.3000000000003 KM</name>
+		<Point>
+			<coordinates>-155.994177,19.646625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.400000000000304 KM</name>
+		<Point>
+			<coordinates>-155.993977,19.645956,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.500000000000306 KM</name>
+		<Point>
+			<coordinates>-155.994395,19.645148,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.60000000000031 KM</name>
+		<Point>
+			<coordinates>-155.994821,19.644343,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.70000000000031 KM</name>
+		<Point>
+			<coordinates>-155.995281,19.643554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.80000000000031 KM</name>
+		<Point>
+			<coordinates>-155.99574,19.642766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>40.90000000000031 KM</name>
+		<Point>
+			<coordinates>-155.99618,19.641973,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.00000000000031 KM</name>
+		<Point>
+			<coordinates>-155.99553,19.641354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.100000000000314 KM</name>
+		<Point>
+			<coordinates>-155.994669,19.640983,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.200000000000315 KM</name>
+		<Point>
+			<coordinates>-155.99373,19.640816,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.30000000000032 KM</name>
+		<Point>
+			<coordinates>-155.992794,19.640643,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.40000000000032 KM</name>
+		<Point>
+			<coordinates>-155.991924,19.640295,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.50000000000032 KM</name>
+		<Point>
+			<coordinates>-155.991266,19.639659,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.60000000000032 KM</name>
+		<Point>
+			<coordinates>-155.990812,19.638869,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.70000000000032 KM</name>
+		<Point>
+			<coordinates>-155.991094,19.638231,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.800000000000324 KM</name>
+		<Point>
+			<coordinates>-155.991945,19.637824,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>41.900000000000325 KM</name>
+		<Point>
+			<coordinates>-155.992774,19.637654,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>42.00000000000033 KM</name>
+		<Point>
+			<coordinates>-155.993371,19.63835,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>42.10000000000033 KM</name>
+		<Point>
+			<coordinates>-155.993837,19.639132,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>42.20000000000033 KM</name>
+		<Point>
+			<coordinates>-155.99448,19.639759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>42.30000000000033 KM</name>
+		<Point>
+			<coordinates>-155.995377,19.640067,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>42.40000000000033 KM</name>
+		<Point>
+			<coordinates>-155.996325,19.640122,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
